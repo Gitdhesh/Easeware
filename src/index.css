@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #09090b; /* zinc-950 */
+  font-family: 'JetBrains Mono', monospace;
+}
+
+#root {
+  min-height: 100vh;
+  background-color: #09090b;
+}
